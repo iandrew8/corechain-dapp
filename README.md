@@ -1,4 +1,4 @@
-# DApp Tutorial for Core Blockchain
+# DApp built on Core Blockchain
 
 
 This tutorial provides simple steps to build a DApp to store and retrieve data on Core blockchain. The technology stack used in this tutorial includes MetaMask, Node.js, Ethers.js and React.js.
